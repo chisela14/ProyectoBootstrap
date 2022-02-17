@@ -1,0 +1,16 @@
+@import url('https://css.gg/music-speaker.css');
+@import url('https://css.gg/shape-circle.css');
+@import url('https://css.gg/music.css');
+@import url('https://css.gg/awards.css');
+@import url('https://css.gg/play-button-o.css');
+.icono {font-size: 0.9rem; color: rgba(255, 255, 255, 0.74);}
+#sidebarToggle{margin-left: 5px; margin-right: 10px;}
+video {align-self: center;}
+#layoutSidenav {background-color: rgb(241, 240, 240);}
+#tarjeta {align-self: center;}
+#tarjeta a {color: white; text-decoration: none;}
+#tarjeta a:hover {text-decoration: underline;}
+img {margin-top: 5px;}
+.fotos img {width: 100px; height: 100px; float: left; margin: 20px;}
+.fotos2 img {float: left; margin: 20px;}
+
